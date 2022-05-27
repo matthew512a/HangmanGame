@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652931414 source:c:\users\laptopsn\desktop\hangman\utility.cpp
+	<algorithm>
+	<fstream>
+	<iostream>
+	<vector>
+
+1652931414 source:e:\c++_programs\project game\hangmangame_1\utility.cpp
+	<algorithm>
+	<fstream>
+	<iostream>
+	<vector>
+
